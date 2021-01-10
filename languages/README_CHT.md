@@ -7,11 +7,11 @@
 
 ### 功能
 - 讓 macOS 可在 AMD 處理器上運行
-- 啟用 iMessage, Siri, FaceTime, 接續互通等
+- 啟用 iMessage, Siri, FaceTime, 接力等
 - 較定制的 XNU kernel 穩定
 
-### 壞處
-- 在 macOS 10.14 以下沒有 32-bit 支援 \(OPEMU\)
+### 缺點
+- 在 macOS 10.14 不支援 32-bit \(OPEMU\)
 
 ### 支援的 AMD 處理器
 | 家族 | 架構 | 例子 |
@@ -24,9 +24,10 @@
 - High Sierra 10.13.x
 - Mojave 10.14.x
 - Catalina 10.15.x
+- Big Sur 11.x
 
-### 指引
-- 從 App Store 中下載 macOS High Sierra, Mojave 或 Catalina
+### 使用說明
+- 從 App Store 中下載 macOS High Sierra, Mojave, Catalina 或 
 - 插入一隻空的 USB
 - 在終端機的執行以下其中一條指令，準備可用於啟動的 macOS USB
 ```
